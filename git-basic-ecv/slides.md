@@ -4,10 +4,6 @@
 
 ---
 
-## This is my slide
-
----
-
 ## How to initialise a new repository
 
 ```
@@ -31,6 +27,20 @@ git diff
 git diff <file_name>
 ```
 
+---
+
+## How to commit changes
+
+```
+git status
+git add --all
+git commit -s --m "A meaningful message about this change"
+```
+
+ou
+
+```
+git add <fichier_modif>
 ---
 
 ## Happy Hacking
