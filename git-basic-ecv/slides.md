@@ -10,6 +10,10 @@
 
 ## How to initialise a new repository
 
+```
+git init
+```
+
 ---
 
 ## Happy Hacking
