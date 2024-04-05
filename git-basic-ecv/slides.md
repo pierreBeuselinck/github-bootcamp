@@ -89,5 +89,13 @@ git push origin main
 
 ---
 
+## Pulling changes from remote
+
+```
+git pull <remote> <branch>
+git pull origin main
+```
+
+---
 
 ## Happy Hacking
