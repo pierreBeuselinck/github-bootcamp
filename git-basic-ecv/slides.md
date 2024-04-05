@@ -66,8 +66,16 @@ git checkout <branch_name>
 
 ```
 git checkout main
-git diff main..<ma-branche>
-git merge <ma-branche>
+git diff main..<branch_name>
+git merge <branch_name>
+```
+
+---
+
+## Delete a branch
+
+```
+git branch --delete <branch_name>
 ```
 
 ---
