@@ -80,5 +80,14 @@ git branch --delete <branch_name>
 
 ---
 
+## Pushing changes to remote
+
+```
+git push <remote> <branch>
+git push origin main
+```
+
+---
+
 
 ## Happy Hacking
