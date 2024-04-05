@@ -8,4 +8,8 @@
 
 ---
 
+## How to initialise a new repository
+
+---
+
 ## Happy Hacking
