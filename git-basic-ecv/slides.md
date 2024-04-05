@@ -62,5 +62,15 @@ git checkout <branch_name>
 
 ---
 
+## Merge branch on main
+
+```
+git checkout main
+git diff main..<ma-branche>
+git merge <ma-branche>
+```
+
+---
+
 
 ## Happy Hacking
