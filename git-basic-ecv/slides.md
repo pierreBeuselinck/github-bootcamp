@@ -12,6 +12,9 @@
 
 ```
 git init
+git add --all
+git commit --message
+Git push
 ```
 
 ---
