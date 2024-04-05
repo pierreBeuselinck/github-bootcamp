@@ -41,6 +41,8 @@ ou
 
 ```
 git add <fichier_modif>
+```
+
 ---
 
 ## Create a new branch
@@ -51,5 +53,14 @@ git checkout <branch_name>
 ```
 
 ---
+
+## Work on a branch
+
+```
+git checkout <branch_name>
+```
+
+---
+
 
 ## Happy Hacking
