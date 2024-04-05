@@ -120,4 +120,11 @@ git pull origin main
 
 ---
 
+# Code with some code
+
+```python
+print("Hello, world!")
+```
+
+---
 ## Happy Hacking
