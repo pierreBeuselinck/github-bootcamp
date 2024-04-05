@@ -112,4 +112,12 @@ git pull origin main
 
 ---
 
+# Headers & Quotes with some content
+
+## Subheading
+
+> This is a quote.
+
+---
+
 ## Happy Hacking
