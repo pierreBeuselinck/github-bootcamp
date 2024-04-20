@@ -170,5 +170,46 @@ git cherry-pick --continue
 
 ---
 
+# How to use git fragments
+
+Git fragments, often referred to as 'git stash', allow you to temporarily save changes that you're not ready to commit. They enable you to switch branches without committing a work-in-progress state.
+
+Saving Changes
+
+```
+git stash
+```
+
+Listing Stashes
+
+```
+git stash list
+```
+
+Applying Saved Changes
+
+```
+git stash pop
+```
+
+Keeping Stashes
+
+```
+git stash apply
+```
+
+Removing Stashes
+
+```
+git stash drop stash@{index}
+```
+
+Clearing All Stashes
+
+```
+git stash clear
+```
+
+---
 
 ## Happy Hacking
