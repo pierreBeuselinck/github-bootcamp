@@ -212,8 +212,4 @@ git stash clear
 
 ---
 
-#Slides for delete
-
----
-
 ## Happy Hacking
