@@ -216,4 +216,10 @@ git stash clear
 
 ---
 
+## Pierre Beuselinck
+
+![](https://raw.githubusercontent.com/flexbox/github-bootcamp/main/slides/github-bootcamp.png)
+
+---
+
 ## Happy Hacking
