@@ -134,4 +134,15 @@ print("Hello, world!")
 
 ---
 
+#How to automate issue closing
+
+When you merge a pull request, you can include keywords in the commit message to automatically close related issues:
+
+```
+git commit -m "feat: Add new feature that improves navigation, fixes #3"
+Use keywords like fixes, resolves, or closes followed by the issue number.
+```
+
+----
+
 ## Happy Hacking
